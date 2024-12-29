@@ -26,10 +26,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oOX81aV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Under the Permissions tab set permissions for the new role.
+3. After clicking Set Password, we can simply create a new password, send a password reset email to the user, and/or require the user to reset their password at their next sign-in.
 </p>
 <br />
 <p>

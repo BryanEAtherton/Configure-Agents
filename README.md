@@ -35,10 +35,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8TP4Qyh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Under the Permissions tab set permissions for the new role.
+4. From the Access tab on the Add New Agents page we can assign Department access and Roles.
 </p>
 <br />
 <p>

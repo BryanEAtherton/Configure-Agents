@@ -44,10 +44,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ML4Gq4C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Under the Permissions tab set permissions for the new role.
+5. From the Teams tab on the Add New Agent page we can assign Teams.
 </p>
 <br />
 <p>
@@ -56,7 +56,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Under the Permissions tab set permissions for the new role.
+6. Under the Permissions tab set permissions for the new role.
 </p>
 <br />
 <p>

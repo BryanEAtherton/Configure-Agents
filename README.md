@@ -17,10 +17,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gIoeN4S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Under the Permissions tab set permissions for the new role.
+2. From the Account tab on the Add New Agents page we can enter basic information, assign a username, set a password, and choose from a list of Status options.
 </p>
 <br />
 <p>
